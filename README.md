@@ -1,2 +1,2 @@
-# AndroidDaily
+# Android Daily
 Android Daily
