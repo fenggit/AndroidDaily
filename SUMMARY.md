@@ -10,4 +10,6 @@
   * [1111](a/1111.md)
 * [算法](suan-fa/README.md)
   * [数据结构 - 数组、链表](suan-fa/shu-ju-jie-gou-shu-zu-lian-biao.md)
+* [Kotlin 进阶](kotlin-jin-jie/README.md)
+  * [Kotlin - 高级用法](kotlin-jin-jie/kotlin-gao-ji-yong-fa.md)
 
