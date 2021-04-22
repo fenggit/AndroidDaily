@@ -1,6 +1,7 @@
 # Table of contents
 
 * [关于](README.md)
+* [Android 常见问题](android-chang-jian-wen-ti.md)
 * [Android 性能优化](android-xing-neng-you-hua/README.md)
   * [Android - RecyclerView 性能优化 - 刷新数据](android-xing-neng-you-hua/android-recyclerview-xing-neng-you-hua.md)
 * [Android 技术](android-ji-shu/README.md)
